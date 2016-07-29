@@ -3,7 +3,7 @@
   "description": "Drop.js is a powerful Javascript and CSS library for creating dropdowns and other floating displays.",
   "majorVersion": 1,
   "minorVersion": 0,
-  "patchVersion": 1,
+  "patchVersion": 2,
   "runnable": 0,
   "author": "Hubspot. Wrapped as H5P by Joubel (fnoks)",
   "license": "MIT",
